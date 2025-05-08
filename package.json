@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
 	},
