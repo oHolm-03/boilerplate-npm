@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "learning npm",
+	"author": "gachiza",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
