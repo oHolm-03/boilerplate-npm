@@ -1,9 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "learning npm",
+	"keywords": ["learning", "backend", "api", "freecodecamp"],
 	"author": "gachiza",
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/exampl": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
